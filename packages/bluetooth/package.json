@@ -11,7 +11,7 @@
     "escpos-adapter"
   ],
   "dependencies": {
-    "node-bluetooth": "*"
+    "node-bluetooth": "eelcocramer/node-bluetooth"
   },
   "author": "Lsong <song940@gmail.com> (https://lsong.org)",
   "license": "MIT",
